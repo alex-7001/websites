@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.header-container{ 
+.first-container{ 
   background-color: #1F2937;
   display: flex;
   padding-top: 5px;
@@ -51,6 +51,7 @@
   border: 2px solid yellow;
   display: flex;
   flex: 1;
+  margin: 0px 80px;
 
 }
 
