@@ -8,6 +8,7 @@
   background-color: #1F2937;
   display: flex;
   padding-top: 5px;
+  flex-direction: column;
 }
 
 .header {
@@ -44,5 +45,12 @@
 
 .links > *:hover {
   border-bottom: 2px solid #E5E7EB;
+}
+
+.content-container {
+  border: 2px solid yellow;
+  display: flex;
+  flex: 1;
+
 }
 
