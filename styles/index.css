@@ -51,7 +51,16 @@
   border: 2px solid yellow;
   display: flex;
   flex: 1;
-  margin: 0px 80px;
-
+  margin: 60px 80px;
+  justify-content: space-between;
 }
+
+.content {
+  border: 1px solid ;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+
 
