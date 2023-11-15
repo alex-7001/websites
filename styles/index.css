@@ -51,7 +51,7 @@
   border: 2px solid yellow;
   display: flex;
   flex: 1;
-  margin: 60px 80px;
+  margin: 60px 200px;
   justify-content: space-between;
 }
 
@@ -68,6 +68,14 @@
   font-size: 48px;
   width: 400px;
   border: 1px solid red;
+  background-color: green;
+}
+
+.secondary-text {
+  background-color: red;
+  flex: 1;
+  font-size: 18px;
+  color: #E5E7EB;
 }
 
 .image-container {
