@@ -26,4 +26,13 @@
   /* border: 2px solid; */
 }
 
+.links {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  flex: 1;
+  justify-content: flex-end;
+  align-items: center;
+}
 
