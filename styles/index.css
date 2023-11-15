@@ -3,3 +3,9 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+.header-container{ 
+  background-color: #1F2937;
+  display: flex;
+  padding-top: 5px;
+}
