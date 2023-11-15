@@ -36,3 +36,13 @@
   align-items: center;
 }
 
+.links > * {
+  font-size: 18px;
+  color: #E5E7EB;
+  text-decoration: none;
+}
+
+.links > *:hover {
+  border-bottom: 2px solid #E5E7EB;
+}
+
