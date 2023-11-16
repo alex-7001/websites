@@ -106,5 +106,9 @@
   display: flex;
   flex: 1;
   margin: 10px 200px;
+  flex-direction: column;
 }
 
+.information-header {
+  
+}
