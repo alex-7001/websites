@@ -14,7 +14,7 @@
 .header {
   flex: 1;
   /* change margin to 200px */
-  margin: 0px 80px;
+  margin: 0px 200px;
   display: flex;
   /* border: 1px solid #ffff00; */
   flex-wrap: wrap;
@@ -48,10 +48,10 @@
 }
 
 .content-container {
-  border: 2px solid yellow;
+  /* border: 2px solid yellow; */
   display: flex;
   flex: 1;
-  margin: 60px 200px;
+  margin: 80px 200px;
   justify-content: space-between;
 }
 
