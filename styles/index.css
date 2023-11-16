@@ -52,7 +52,6 @@
   display: flex;
   flex: 1;
   margin: 80px 200px;
-  justify-content: space-between;
 }
 
 .content {
@@ -96,5 +95,16 @@
   align-items: center;
 }
 
+.second-container{ 
+  display: flex;
+  padding-top: 10px;
+}
 
+
+.second-container .content-container {
+  border: 2px solid yellow;
+  display: flex;
+  flex: 1;
+  margin: 10px 200px;
+}
 
