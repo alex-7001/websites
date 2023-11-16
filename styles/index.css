@@ -81,13 +81,19 @@
 .button {
   background-color: #3882F6;
   width: fit-content;
-  padding: 5px 20px;
-  border-radius: 10px;
+  padding: 5px 25px;
+  margin-top: 7px;
+  border-radius: 8px;
   color: #F9FAF8;
+  border: 0px;
 }
 
 .image-container {
   flex: 1;
+  display: flex;
+  background-color: #E5E7EB;
+  justify-content: center;
+  align-items: center;
 }
 
 
