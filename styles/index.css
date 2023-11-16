@@ -120,6 +120,7 @@
   border: 2px solid green;
   display: flex;
   flex: 1;
+  justify-content: space-evenly;
 }
 
 .box-container {
@@ -128,6 +129,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100px;
 }
 
 .box-one,
@@ -139,3 +141,9 @@
   width: 100px;
   border-radius: 10px;
 }
+
+p.box-content {
+  color: red;
+}
+
+/* changed the size of the boxes so they're the same on all sides */
