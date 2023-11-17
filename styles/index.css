@@ -98,7 +98,6 @@
 
 .second-container{ 
   display: flex;
-  padding-top: 10px;
 }
 
 
@@ -154,3 +153,7 @@ p.box-content {
   color: #b8b9bc;
 }
 
+.third-container {
+  display: flex;
+  background-color: salmon;
+}
