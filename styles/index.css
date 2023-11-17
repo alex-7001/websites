@@ -98,7 +98,6 @@
 
 .second-container{ 
   display: flex;
-  padding-top: 10px;
 }
 
 
@@ -153,5 +152,30 @@ p.box-content {
   font-size: 18px;
   color: #b8b9bc;
   margin-top: 10px;
+}
+
+.third-container {
+  display: flex;
+  background-color: #E5E7EB;
+}
+
+.third-container .content-container {
+  /* border: 2px solid yellow; */
+  display: flex;
+  flex: 1;
+  margin: 30px 200px;
+  margin-bottom: 100px;
+  flex-direction: column;
+  padding: 60px;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+#quote {
+  /* border: 2px solid black; */
+  font-size: 36px;
+  color: #1F2937;
+  font-style: italic;
+  padding: 20px;
 }
 
