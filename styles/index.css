@@ -157,3 +157,13 @@ p.box-content {
   display: flex;
   background-color: salmon;
 }
+
+.third-container .content-container {
+  border: 2px solid yellow;
+  display: flex;
+  flex: 1;
+  margin: 30px 200px;
+  margin-bottom: 100px;
+  flex-direction: column;
+  padding: 40px;
+}
