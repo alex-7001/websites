@@ -155,7 +155,7 @@ p.box-content {
 
 .third-container {
   display: flex;
-  background-color: salmon;
+  background-color: #E5E7EB;
 }
 
 .third-container .content-container {
@@ -165,5 +165,13 @@ p.box-content {
   margin: 30px 200px;
   margin-bottom: 100px;
   flex-direction: column;
-  padding: 40px;
+  padding: 60px;
+}
+
+#quote {
+  border: 2px solid black;
+  font-size: 36px;
+  color: #1F2937;
+  font-style: italic;
+  padding: 20px;
 }
