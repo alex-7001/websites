@@ -130,7 +130,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100px;
+  width: 120px;
 }
 
 .box-one,
@@ -138,13 +138,13 @@
 .box-three,
 .box-four {
   border: 2px solid red;
-  height: 110px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
   border-radius: 10px;
 }
 
 p.box-content {
+  border: 1px solid yellow;
   color: red;
 }
 
-/* changed the size of the boxes so they're the same on all sides */
