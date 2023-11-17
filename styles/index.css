@@ -93,6 +93,7 @@
   background-color: #E5E7EB;
   justify-content: center;
   align-items: center;
+  color: #b8b9bc;
 }
 
 .second-container{ 
@@ -148,5 +149,7 @@
 p.box-content {
   /* border: 1px solid yellow;
   color: red; */
+  font-size: 18px;
+  color: #b8b9bc;
 }
 
