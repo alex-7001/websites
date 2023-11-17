@@ -166,12 +166,15 @@ p.box-content {
   margin-bottom: 100px;
   flex-direction: column;
   padding: 60px;
+  align-items: flex-end;
+  gap: 10px;
 }
 
 #quote {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   font-size: 36px;
   color: #1F2937;
   font-style: italic;
   padding: 20px;
 }
+
