@@ -164,7 +164,7 @@ p.box-content {
   display: flex;
   flex: 1;
   margin: 30px 200px;
-  margin-bottom: 100px;
+  /* margin-bottom: 100px; */
   flex-direction: column;
   padding: 60px;
   align-items: flex-end;
