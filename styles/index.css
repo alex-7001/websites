@@ -94,13 +94,10 @@
   border: 0px;
 }
 
-.image-container {
+#video {
   flex: 1;
-  display: flex;
-  background-color: #E5E7EB;
-  justify-content: center;
-  align-items: center;
-  color: #b8b9bc;
+  width: 300px;
+  height: fit-content;
 }
 
 .second-container,
