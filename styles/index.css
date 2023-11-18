@@ -207,4 +207,14 @@ p.box-content {
   color: #E5E7EB;
 }
 
+.fifth-container {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+}
+
+.fifth-container p {
+  margin: 15px 200px;
+  color: #F9FAF8;
+}
 
