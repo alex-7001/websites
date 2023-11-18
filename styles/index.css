@@ -96,7 +96,8 @@
   color: #b8b9bc;
 }
 
-.second-container{ 
+.second-container,
+.fourth-container{ 
   display: flex;
 }
 
@@ -177,4 +178,5 @@ p.box-content {
   font-style: italic;
   padding: 20px;
 }
+
 
