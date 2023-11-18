@@ -51,7 +51,7 @@
 }
 
 .links > *:hover {
-  border-bottom: 2px solid #E5E7EB;
+  text-decoration: underline;
 }
 
 .first-container .content-container {
