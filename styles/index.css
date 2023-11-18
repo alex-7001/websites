@@ -21,6 +21,11 @@
   justify-content: space-between;
 }
 
+#logo {
+  width: 70px;
+  height: 70px;
+}
+
 .header-logo {
   font-size: 24px;
   color: #F9FAF8;
