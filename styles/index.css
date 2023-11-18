@@ -189,4 +189,13 @@ p.box-content {
   justify-content: space-between;
 }
 
+.action-content h2 {
+  color: #F9FAF8;
+}
+
+.action-content p {
+  color: #b8b9bc;
+}
+
+
 
