@@ -187,6 +187,7 @@ p.box-content {
   border-radius: 7px;
   padding: 30px 80px;
   justify-content: space-between;
+  align-items: center;
 }
 
 .action-content h2 {
@@ -197,5 +198,9 @@ p.box-content {
   color: #b8b9bc;
 }
 
+#action-button {
+  width: 100px;
+  height: 30px;
+}
 
 
