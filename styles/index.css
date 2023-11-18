@@ -201,6 +201,10 @@ p.box-content {
 #action-button {
   width: 100px;
   height: 30px;
+  background-color: #3882F6;
+  border: 2px solid #E5E7EB;
+  border-radius: 7px;
+  color: #E5E7EB;
 }
 
 
