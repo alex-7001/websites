@@ -97,7 +97,7 @@
 }
 
 .second-container {
-  background: rgba(98, 160, 98, 0.824);
+  background: #359b44c6;
 }
 
 .second-container .content-container {
@@ -138,10 +138,34 @@
 .box-two,
 .box-three,
 .box-four {
-  border: 2px solid #3882F6;
+  border: 2px solid #fbab9b;
   height: 130px;
   width: 130px;
   border-radius: 10px;
+}
+
+.box-one {
+  background-image: url("../images/flower.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.box-two {
+  background-image: url("../images/cherry_album.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.box-three {
+  background-image: url("../images/igor.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.box-four {
+  background-image: url("../images/wolf.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 p.box-content {
