@@ -5,7 +5,7 @@
 }
 
 .first-container{ 
-  background-color: #1F2937;
+  background-color: #51300bde;
   display: flex;
   padding-top: 5px;
   flex-direction: column;
@@ -88,6 +88,7 @@
   flex: 1;
   width: 300px;
   height: fit-content;
+  padding: 17px;
 }
 
 .second-container,
