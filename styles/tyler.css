@@ -75,6 +75,7 @@
   width: 400px;
   /* border: 1px solid red;
   background-color: green; */
+  color: #fbab9b;
 }
 
 .secondary-text {
@@ -115,6 +116,7 @@
   display: flex;
   justify-content: center;
   font-size: 36px;
+  color: #fbab9b;
 }
 
 .main-box-container {
