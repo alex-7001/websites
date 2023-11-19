@@ -84,16 +84,6 @@
   color: #E5E7EB;
 }
 
-.button {
-  background-color: #3882F6;
-  width: fit-content;
-  padding: 5px 25px;
-  margin-top: 7px;
-  border-radius: 8px;
-  color: #F9FAF8;
-  border: 0px;
-}
-
 #video {
   flex: 1;
   width: 300px;
