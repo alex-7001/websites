@@ -96,6 +96,9 @@
   display: flex;
 }
 
+.second-container {
+  background: rgba(98, 160, 98, 0.824);
+}
 
 .second-container .content-container {
   /* border: 2px solid yellow; */
